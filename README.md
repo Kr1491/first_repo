@@ -1,2 +1,4 @@
-# first_repo
-First Test Repo
+# First repository
+<br>
+Author: Kr1491
+
